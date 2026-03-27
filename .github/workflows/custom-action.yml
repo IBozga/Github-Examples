@@ -12,6 +12,7 @@ jobs:
       - name: Hello world action step
         id: hello
         uses: IBozga/mars@0.0.8
+        
         with:
           name: Marsian
 
